@@ -23,25 +23,34 @@ Design database tables for Patients, Doctors, Appointments, Bills, and Reports.
 
 # UML DIAGRAM 
 
-## USECASE DIAGRAM:
+## USE CASE DIAGRAM:
+
+![image](https://github.com/Ashera2004/Exp-4/blob/main/2026-03-16%2015_54_35-%E2%80%A2%20Use%20Case%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 
 ## ACTIVITY DIAGRAM:
 
+![image](https://github.com/Ashera2004/Exp-4/blob/main/2026-03-16%2015_58_26-Activity%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
+
 
 ## CLASS DIAGRAM:
 
+![image](https://github.com/Ashera2004/Exp-4/blob/main/2026-03-16%2015_56_43-Class%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 
 ## COMMUNICATION DIAGRAM:
 
+![image](https://github.com/Ashera2004/Exp-4/blob/main/2026-03-16%2015_56_16-Communication%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 
 ## PACKAGE DIAGRAM:
 
+![image](https://github.com/Ashera2004/Exp-4/blob/main/2026-03-16%2015_55_46-Package%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 
 ## SEQUENCE DIAGRAM:
+
+![image](https://github.com/Ashera2004/Exp-4/blob/main/2026-03-16%2015_55_17-Sequence%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 
 # RESULT:
